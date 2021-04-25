@@ -1,0 +1,39 @@
+
+nav{
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.nav__left{
+    order: 1;
+    justify-self: flex-start;
+}
+
+.nav__center{
+    order: 3;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.nav__right{
+    justify-self: flex-end;
+    order: 2;
+}
+
+.home{
+    height: 45rem;
+    padding-left: 5rem;
+}
+
+.home__right{
+    display: none;
+}
+.home__big-text{
+    font-size: 4.5rem;
+}
+
+.categories__sections{
+    display: none;
+}

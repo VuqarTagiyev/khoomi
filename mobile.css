@@ -1,0 +1,28 @@
+html{
+    font-size: 8px;
+}
+
+.search__box{
+    width:100%;
+}
+
+.product{
+    width: 20rem;
+}
+
+.big__product{
+    width: 46rem;
+  }
+
+  .products{
+    width: 46rem
+  }
+
+
+  .discounts{
+      padding: 5rem 3rem;
+  }
+
+  .discounts__text{
+      font-size: 2.2rem;
+  }
